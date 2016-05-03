@@ -1,2 +1,2 @@
 # VCTransitions
-自定义专场动画 （swift）
+自定义转场动画 （swift）
